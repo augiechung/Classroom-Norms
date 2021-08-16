@@ -1,6 +1,6 @@
 # Flight Manual
 
-Welcome to University of California - Irvine's Data Analytics and Visualization Bootcamp!
+Welcome to Rutgers University's Full Stack Web Developer Bootcamp!
 
 ## About Flight Manual
 

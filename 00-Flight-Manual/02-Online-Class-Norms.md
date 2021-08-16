@@ -13,7 +13,7 @@
 * In the unlikely event that you forget to sign in, you can contact a TA to resolve the issue. If the error is recognized after the day of, you will need to reach out to @Admin1. 
 
 ## Zoom and Screenshare
-* Everyone’s video should **always** be on during class! *(Video can be turned off during breaks/lunch)*
+* Everyone’s video SHOULD be on during class! *(Video can be turned off during breaks)*
 * You can use Zoom’s “Virtual Background” feature to mask visual background distractions.
 * Share your screen during in-class activities.
 * If you need an exception to the above policy, please contact the instructor directly via Slack.
@@ -22,13 +22,12 @@
 * All questions are important and valid, but not all questions are attached to that day's objectives. 
 * If you have a question related to the lecture, please raise your hand in Zoom participants tab. 
 * When called upon, unmute your mic and ask. 
-* You can also use Slack **#ask-the-class** to ask questions not directly related to the topic at hand.
+* You can also use Slack **#02-ask-the-class** to ask questions not directly related to the topic at hand.
 * If the instructor feels the question is not best addressed right then, he may ask you to direct it to slack for later attention. 
-* Outside of class and after hours, you should utilize the **#02-ask-the-class**  and/or **#04-homework-support** channel to receive assistance from your classmates. 
+* Outside of class and after hours, you should utilize the **#02-ask-the-class**  and/or **homework-support** channel to receive assistance from your classmates. 
 
 ## Office Hours
 * Office hours are optional and available for you to get personalized assistance from the instructional staff. Take advantage of this. 
-* Use the calendly link https://calendly.com/anthony-dataviz/office-hours-with-ta to schedule time with a TA
 * Additionally, scheduled activities in the main room may include: 
     * Review sessions
     * Extra-curriculuar sessions
