@@ -28,12 +28,13 @@ Below, find a list of resources we recommend throughout the cohort.
 
 - Step 1 : On Windows, open a GitBash window, on Mac, open a Terminal Window
 - Step 2 : Navigate to your "Home" folder with following command : cd ~
-- Step 3 : Create a folder for your classwork and homework : mkdir DataClass
-- Step 4 : Navigate to your class folder : cd ~/DataClass
- - Step 5 : Clone the class GitLab repository : git clone git@uci.bootcampcontent.com:UCI-Coding-Bootcamp/uci-irv-data-pt-06-2021-u-c.git
-- Step 6 : Navigate in to the class repo : cd uci-irv-data-pt-06-2021-u-c
+- Step 3 : Create a folder for your classwork and homework : mkdir WebClass
+- Step 4 : Navigate to your class folder : cd ~/WebClass
+ - Step 5 : Clone the class GitLab repository : git clone git@github.com:RutgersCodingBootcamp/RUT-VIRT-BO-FSF-PT-08-2021-U-B.git
+- Step 6 : Navigate in to the class repo : cd RUT-VIRT-BO-FSF-PT-08-2021-U-B
 - Step 7 : "Pull" the latest from the class repo : git pull
-- Step 8 : Using the Windows File Explorer or Mac Finder, add your DataClass folder and your uci-irv-data-pt-06-2021-u-c folder to your Quick Access list or Favorites list respectively.
+- Step 8 : Using the Windows File Explorer or Mac Finder, add your WebClass folder and your 
+RUT-VIRT-BO-FSF-PT-08-2021-U-B folder to your Quick Access list or Favorites list respectively.
 
 ** If any issues or questions, we can address during office hours.
 
